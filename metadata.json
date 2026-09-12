@@ -1,0 +1,6 @@
+{
+  "name": "ASTRA OS",
+  "description": "Autonomous Space Tracking, Response & Analysis Operating System - Futuristic AI Mission Control Platform",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
